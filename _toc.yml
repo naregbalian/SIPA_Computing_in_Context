@@ -1,6 +1,6 @@
 format: jb-book
 root: index.md
 chapters:
-  - file: Project 1
-  - file: Project 2
-  - file: Project 3
+  - file: Project_1
+  - file: Project_2
+  - file: Project_3
