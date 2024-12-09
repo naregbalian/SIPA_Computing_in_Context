@@ -1,2 +1,2 @@
 #Nareg's Projects
-Hello, this is Nareg's python projects for computing in context. I start with Project 1 where I use "pure python." Then, I have project 2 where I look at poverty and hate crimes per capita. I continue this exploration in project 3 where I include the variable of largest identity higher than 66% compared to lower than 66%.
+Hello, this is Nareg's python projects for computing in context. I start with Project 1 where I use "pure python." Then, I have project 2 where I look at poverty and hate crimes per capita. I continue this exploration in project 3 where I include the variable of largest identity higher than 66% compared to lower than 66%. More information on what I did is on this website!
